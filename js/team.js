@@ -4,7 +4,7 @@ THIS CODE BY LWJerri#3290
 const boxOwners = document.getElementById("owners_list");
 /*
 you can use this api but if you need to create custome api check:
- https://github.com/Hadi-Koubeissi/discord-web-api
+ https://github.com/weirdbandkid-games/discord-web-api
 */
 const API = "https://discord-web-api.glitch.me/discord/user/";
 
