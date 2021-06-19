@@ -22,6 +22,13 @@ const owners = [
         "GHURL": "https://github.com/weirdbandkid-games",
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/channel/UCCmXvGTTvILz8Qmdu9R5IJQ"
+    },
+     {
+        "id": "532294231994138644",
+        "post": "Discord Server Admin",
+        "GHURL": "https://github.com/",
+        "InstaURL": "",
+        "YTURL": "https://www.youtube.com/"
     }, 
     {
         "id": "709203560428208178",
@@ -31,9 +38,9 @@ const owners = [
         "YTURL": "https://www.youtube.com/"
     },
      {
-        "id": "532294231994138644",
-        "post": "Discord Server Admin",
-        "GHURL": "https://github.com/",
+        "id": "709147914902962266",
+        "post": "Its Me! Mod Bot!",
+        "GHURL": "https://github.com/weirdbandkid-games/mod-bot-dash",
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/"
     }
