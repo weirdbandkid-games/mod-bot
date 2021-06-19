@@ -24,9 +24,9 @@ const owners = [
         "YTURL": "https://www.youtube.com/channel/UCCmXvGTTvILz8Qmdu9R5IJQ"
     }, 
     {
-        "id": "709147914902962266",
-        "post": "The Bot Itself",
-        "GHURL": "https://github.com/weirdbandkid-games/mod-bot-dash",
+        "id": "709203560428208178",
+        "post": "Developer",
+        "GHURL": "https://github.com/weirdbandkid-games",
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/"
     },
