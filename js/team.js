@@ -31,9 +31,9 @@ const owners = [
         "YTURL": "https://www.youtube.com/"
     }, 
     {
-        "id": "709203560428208178",
+        "id": "294205907250970644",
         "post": "Developer",
-        "GHURL": "https://github.com/weirdbandkid-games",
+        "GHURL": "https://github.com/Camman2000",
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/"
     },
